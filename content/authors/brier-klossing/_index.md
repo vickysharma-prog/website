@@ -24,9 +24,6 @@ interests:
 
 education:
   courses:
-  - course: PhD in Biological Sciences
-    institution: Ohio University
-    year: 2030
   - course: MS in Population and Conservation Biology
     institution: Texas State University
     year: 2025
