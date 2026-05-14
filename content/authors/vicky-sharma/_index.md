@@ -11,7 +11,7 @@ organizations:
   url: "https://www.du.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: First-year student learning about AI for environmental monitoring and biodiversity research.
+bio: Currently a first-year student Exploring AI for environmental monitoring and biodiversity research.
 
 education:
   courses:
